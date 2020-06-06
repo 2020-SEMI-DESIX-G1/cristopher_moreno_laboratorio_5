@@ -52,14 +52,14 @@ Enunciado 4:
    en ese mismo orden.
 */
 
-let mitsubushi = {
+let mitsubishi = {
     year: 2016,
     model: 'mirage',
     has_cvt: true,
     engine_specs: {},
 }
 
-// console.log(mitsubushi.year)
-// console.log(mitsubushi.model)
-// console.log(mitsubushi.has_cvt)
-// console.log(mitsubushi.engine_specs)
+// console.log(mitsubishi.year)
+// console.log(mitsubishi.model)
+// console.log(mitsubishi.has_cvt)
+// console.log(mitsubishi.engine_specs)
